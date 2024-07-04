@@ -140,13 +140,3 @@ class AI21(LLM):
         return response_model
 
 
-{
-    "id": "02cea1c8-60aa-b0de-1998-2449d05a5c22",
-    "outputs": [
-        {
-            "text": "I'm sorry, I am an AI assistant for business research and not able to provide real-time weather information. Could you please check other sources for real-time weather information?",
-            "role": "assistant",
-            "finishReason": {"reason": "endoftext", "length": None, "sequence": None},
-        }
-    ],
-}
