@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a web application featuring a Python and Golang backend, complemented by a Next.js frontend. It serves as a versatile platform for deploying chatbots across different domains, including coding, marketing, and general conversations. Users can interact with agentic AI systems, leveraging powerful capabilities without the need for coding expertise.
+This application features a Python and Golang backend, complemented by a . It serves as a versatile platform for deploying chatbots across different domains, including coding, marketing, and general conversations. Users can interact with different LLM providers.
 
 ## Features
 
